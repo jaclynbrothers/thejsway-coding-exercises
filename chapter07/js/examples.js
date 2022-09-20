@@ -46,7 +46,7 @@
 
 // Solution using a forEach method
 /*values.forEach(value => {
-  sum += value;
+    sum += value;
 });*/
 
 // console.log(sum); 
